@@ -14,7 +14,7 @@ I'm a React Developer passionate about building modern, responsive, and user-fri
 
 Languages & Core Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,ai,chatgpt)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python)
 
 Frameworks & Libraries
 
